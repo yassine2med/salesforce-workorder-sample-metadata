@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Check</fullName>
+    <active>true</active>
+    <errorConditionFormula>Missing_Field__c &gt; 5</errorConditionFormula>
+    <errorMessage>Too big.</errorMessage>
+</ValidationRule>

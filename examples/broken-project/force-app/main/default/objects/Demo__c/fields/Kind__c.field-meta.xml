@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Kind__c</fullName>
+    <label>Kind</label>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <value><fullName>A</fullName><default>false</default><label>A</label></value>
+            <value><fullName>A</fullName><default>false</default><label>Again</label></value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

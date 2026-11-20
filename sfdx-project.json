@@ -1,0 +1,9 @@
+{
+  "packageDirectories": [
+    { "path": "force-app", "default": true }
+  ],
+  "name": "salesforce-workorder-sample-metadata",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "61.0"
+}
