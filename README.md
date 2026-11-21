@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="salesforce-workorder-sample-metadata" width="100%"></p>
+
 # salesforce-workorder-sample-metadata
 
 A Salesforce DX project with the metadata for a simple facility work order: a custom object, nine fields, a validation rule, a list view, a permission set and a record-triggered flow. Next to it is a Python checker that reads the XML files offline and reports broken names, bad field settings and references to fields that do not exist.
